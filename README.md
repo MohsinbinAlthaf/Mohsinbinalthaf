@@ -17,7 +17,7 @@ Got recogonized official in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YE
 - Developer advocacy oppurtunities & promotion oppurtunities
 - Collaborations to build something great
 
-If you'd love to talk, just send me a [DM on Twitter](https://www.instagram.com/mohsinbinalthaf__/)
+If you'd love to talk, just send me a [DM on INSTAGRAM](https://www.instagram.com/mohsinbinalthaf__/)
 
 
 
