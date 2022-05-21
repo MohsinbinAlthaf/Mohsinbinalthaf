@@ -3,7 +3,7 @@
 Myself Mohsin a 16 year old boy who get's out of the box. CEO of **Spark Technologies**. Hands on **Robotics, Artificial intelligence, Programming, Machine Learning, Software development, Entrepreneurship**.
 
 Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YEAR 2020** 
-- ***Enterpreneurship***
+- ***Entrepreneurship***
 
 - ***Research on Crypto currency***
 
@@ -12,6 +12,12 @@ Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE Y
 - ***Trying to achieve it Young***
 
 - ***Working on IOT based Ebike for twisting fututre in Electrice vehicles market***.
+
+lign="left"> <img src="https://komarev.com/ghpvc/?username=mohsinbinalthaf&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinbinalthaf" /> </p>
+
+- 🌱 I’m currently learning **NFT, Crypto, Latest Technologies**
+
+- 📄 Know about my experiences [Got into Technology from young age](Got into Technology from young age)
 
 ## Skills:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>       
