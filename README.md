@@ -18,7 +18,7 @@ Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE Y
  
 ### I'm open to:
 - Business oppurtunities
-- Sponsorships & paid video chat
+- Sponsorships & paid mentoring
 - Discuss productive things
 - Collaborations to build something great
 
