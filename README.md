@@ -3,11 +3,11 @@
 Myself Mohsin a 16 year old boy who get's out of the box. CEO of **Spark Technologies**. Hands on **Robotics, Artificial intelligence, Programming, Machine Learning, Software development, Entrepreneurship**.
 
 Got recogonized official in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YEAR 2020** 
-- **Enterpreneurship** 
-- Research on **Crypto currency**
-- Spend **Time** productive
-- Trying to achieve it Young
-- Working on **IOT** based Ebike for twisting fututre in Electrice vehicles market. 
+- ***Enterpreneurship***
+- ***Research on Crypto currency***
+- ***Spend Time productive***
+- ***Trying to achieve it Young***
+- ***Working on IOT based Ebike for twisting fututre in Electrice vehicles market. ***
 
 ## Skills:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>       
