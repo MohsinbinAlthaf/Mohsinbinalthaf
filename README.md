@@ -12,7 +12,7 @@ Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE Y
 - ***Trying to achieve it Young***
 
 - ***Working on IOT based Ebike for twisting fututre in Electrice vehicles market***.
-- 
+ 
 - ***WEB AND SOFTWARE DEVELOPER***
 
 
