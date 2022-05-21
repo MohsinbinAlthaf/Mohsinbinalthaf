@@ -4,9 +4,13 @@ Myself Mohsin a 16 year old boy who get's out of the box. CEO of **Spark Technol
 
 Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YEAR 2020** 
 - ***Enterpreneurship***
+
 - ***Research on Crypto currency***
+
 - ***Spend Time productive***
+
 - ***Trying to achieve it Young***
+
 - ***Working on IOT based Ebike for twisting fututre in Electrice vehicles market***.
 
 ## Skills:
