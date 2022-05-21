@@ -30,7 +30,7 @@ If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.co
   <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RizanAbdulSalam&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mohsinbinalthaf&&style=flat-square" align="center" />
 </div>  
 
 <br />
