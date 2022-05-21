@@ -14,9 +14,9 @@ Working on **IOT** based Ebike for twisting fututre in Electrice vehicles market
  
  
 ### I'm open to:
-- Work oppurtunities
+- Business oppurtunities
 - Sponsorships & paid video chat
-- Developer advocacy oppurtunities & promotion oppurtunities
+- Discuss productive things
 - Collaborations to build something great
 
 If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.com/mohsinbinalthaf___/)
