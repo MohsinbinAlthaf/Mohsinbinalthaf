@@ -26,6 +26,14 @@ If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.co
 <a href="https://twitter.com/mohsinbinalthaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinbinalthaf" height="30" width="40" /></a>
 <a href="https://instagram.com/mohsinbinalthaf___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsinbinalthaf___" height="30" width="40" /></a>
 <a href="https://github.com/mohsinbinalthaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohsinbinalthaf" height="30" width="40" /></a>
+  
+  <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=RizanAbdulSalam&&style=flat-square" align="center" />
+</div>  
+
+<br />
 
 
 
