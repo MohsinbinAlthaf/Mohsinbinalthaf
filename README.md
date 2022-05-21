@@ -25,10 +25,8 @@ If you'd love to talk, just send me a [DM on Instagram](https://www.instagram.co
 <p align="left">
 <a href="https://twitter.com/mohsinbinalthaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinbinalthaf" height="30" width="40" /></a>
 <a href="https://instagram.com/mohsinbinalthaf___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsinbinalthaf___" height="30" width="40" /></a>
-</p>
-<a href="https://github.com/mohsinbinalthaf" target="_blank">
-<img src=https://[img.shields.io/badge/github-%2324292e.svg?&](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visualpharm.com%2Ffree-icons%2Fgithub-595b40b85ba036ed117dc155&psig=AOvVaw1kiyMfuLCQKfX2y2aBu3RV&ust=1653251095282000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCGyri28fcCFQAAAAAdAAAAABAD)style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px" />
-</a>
+<a href="https://twitter.com/mohsinbinalthaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohsinbinalthaf" height="30" width="40" /></a>
+
 
 
 
