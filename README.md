@@ -1,11 +1,9 @@
 <h1 align="left">Hey, Myself Mohsin👋</h1> 
 
-Myself Mohsin a 16 year old boy who get's out of the box. CEO of **Spark Technologies**. Hands on **Robotics, Artificial intelligence, Programming, Machine Learning, Software development, Entrepreneurship**.
+Myself Mohsin a 16 year old boy who get's out of the box. CEO of **Spark Technologies**. Hands on **Robotics, Artificial intelligence, Programming, Entrepreneurship**.
 
 Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YEAR 2020** 
 - ***Entrepreneurship***
-
-- ***Research on Crypto currency***
 
 - ***Spend Time productive***
 
@@ -30,7 +28,6 @@ Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE Y
  
 ### I'm open to:
 - Business oppurtunities
-- Sponsorships & paid mentoring
 - Discuss productive things
 - Collaborations to build something great
 
