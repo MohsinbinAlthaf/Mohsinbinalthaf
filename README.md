@@ -1,11 +1,11 @@
-<h1 align="left">Hey, Myself Mohsin👋</h1> 
+<h1 align="left">Mohsin Here👋</h1> 
 
-Myself Mohsin a 19 year old boy who get's out of the box. CEO of **Spark Technologies**. Hands on **Robotics, Programming, Entrepreneurship**.
+19 year old!. CEO of **Spark Technologies**. Hands on **Robotics, Programming, Entrepreneurship**.
 
 Got recogonized officialy in **KERALA STARTUP MISSION FOR THE BEST IDEA OF THE YEAR 2020** 
 - ***Entrepreneurship***
 
-- ***Spend Time productive***
+- ***Spending time on circuits to blast***
 
 - ***Trying to achieve it Young***
 
