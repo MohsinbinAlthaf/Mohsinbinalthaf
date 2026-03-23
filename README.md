@@ -7,9 +7,9 @@
 I build things across embedded systems, robotics, 
 and software — from PCB design to web interfaces & Ebike Build
 
-Hosted 5 National Hackathons
-3X time International Hackathon winner
-Maker of the year 2021 Kerala Startup Mission
+-Hosted 5 National Hackathons
+-3X time International Hackathon winner
+-Maker of the year 2021 Kerala Startup Mission
 
 ## Skills
 
