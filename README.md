@@ -1,4 +1,4 @@
-# Hi, I'm Mohsin 👋
+# Mohsin here 👋
 
 B.Tech student at FISAT, Kerala. I build things across embedded systems,
 robotics, and software — from PCB design to web interfaces.
