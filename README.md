@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./icon.png" width="100%" />
+</p>
 # Mohsin here 👋
 
 I build things across embedded systems, robotics, 
