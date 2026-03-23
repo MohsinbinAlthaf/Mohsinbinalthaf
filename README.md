@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icon.png" width="100%" />
+  <img src="./iccon.png" width="100%" />
 </p>
 # Mohsin here 👋
 
