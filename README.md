@@ -1,7 +1,7 @@
 # Mohsin here 👋
 
-B.Tech student at FISAT, Kerala. I build things across embedded systems,
-robotics, and software — from PCB design to web interfaces.
+I build things across embedded systems, robotics, 
+and software — from PCB design to web interfaces & Ebike Build
 
 ## Skills
 
@@ -27,3 +27,15 @@ robotics, and software — from PCB design to web interfaces.
 ---
 
 *Always building something new.*
+  <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mohsinbinalthaf&&style=flat-square" align="center" />
+</div>  
+
+<br />
+<div align="center">
+<a href="mailto:">uamohsin.5@gmail.com</a>/<a href="https://instagram.com/mohsinbinaltaf___">mohsinbinalthaf___</a>
+</div>
+
+
