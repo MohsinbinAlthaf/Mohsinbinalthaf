@@ -24,6 +24,8 @@ and software — from PCB design to web interfaces & Ebike Build
 - IoT builds and hardware prototypes
 - Game development and interactive interfaces
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinbinalthaf&layout=compact&theme=tokyonight&langs_count=6)
+
 ---
 
 *Always building something new.*
